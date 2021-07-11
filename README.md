@@ -16,12 +16,14 @@
 
 Without cluster
 
-![With cluster](/screenshots/screenshot1.png)
-
-![With cluster](/screenshots/screenshot2.png)
+<p align="center">
+  <img src="/screenshots/screenshot1.png">
+  <img src="/screenshots/screenshot2.png">
+</p>
 
 With cluster
 
-![With cluster](/screenshots/screenshot3.png)
-
-![With cluster](/screenshots/screenshot4.png)
+<p align="center">
+  <img src="/screenshots/screenshot3.png">
+  <img src="/screenshots/screenshot4.png">
+</p>
