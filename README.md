@@ -7,7 +7,7 @@
 
 - HTML, CSS, JS
 - Leaflet 1.7.1
-- Plugin leaflet markercluster 1.5.0
+- [Plugin leaflet markercluster 1.5.0](https://github.com/Leaflet/Leaflet.markercluster)
 - Layer OSM
 - Data from [Open Flights](https://openflights.org/data.html)
 - Use my API airports test
