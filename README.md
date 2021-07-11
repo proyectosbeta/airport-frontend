@@ -1,3 +1,8 @@
+# Descripcion
+
+- index.hml: Many point without cluster.
+- index1.hml: Many point with cluster.
+
 # Tecnologies
 
 - HTML, CSS, JS
@@ -6,8 +11,3 @@
 - Layer OSM
 - Data from [Open Flights](https://openflights.org/data.html)
 - Use my API airports test
-
-# Descripcion
-
-- index.hml: Many point without cluster.
-- index1.hml: Many point with cluster.
