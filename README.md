@@ -11,3 +11,17 @@
 - Layer OSM
 - Data from [Open Flights](https://openflights.org/data.html)
 - Use my API airports test
+
+# Screnshots
+
+Without cluster
+
+![With cluster](/screenshots/screenshot1.png)
+
+![With cluster](/screenshots/screenshot2.png)
+
+With cluster
+
+![With cluster](/screenshots/screenshot3.png)
+
+![With cluster](/screenshots/screenshot4.png)
